@@ -4,6 +4,7 @@
 */
 
 if(!defined('ABSPATH')){
+	die();
 	 exit;// Exit if accessed directly
 } 
 
